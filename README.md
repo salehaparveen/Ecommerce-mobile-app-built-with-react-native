@@ -38,7 +38,7 @@ Open-Source React Native Ecommerce Cross Platform Mobile App :iphone:
 To clone this repo, type the following command
 
 ```
-git clone https://github.com/UsamaSarwar/reactnative-ecommerce-charlie.git
+git clone https://github.com/salehaparveen/Ecommerce-mobile-app-built-with-react-native.git
 ```
 
 ### `Node Package Manager`
